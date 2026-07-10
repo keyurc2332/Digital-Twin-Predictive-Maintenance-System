@@ -15,36 +15,27 @@
 
 # 📸 Project Showcase
 
-<table>
-<tr>
-<td align="center">
+### 🖥️ Real-Time Digital Twin Dashboard
 
-### Dashboard
+The dashboard visualizes the digital twin of the industrial motor along with live sensor readings, health score, vibration trends, and predictive maintenance insights.
 
-![Dashboard](assets/screenshots/dashboard.png)
+![Digital Twin Dashboard](assets/screenshots/digital_twin_dashboard.png)
 
-</td>
+---
 
-<td align="center">
+### ⚠️ Intelligent Fault Detection & Health Monitoring
 
-### Digital Twin
+The system continuously monitors the motor's operating condition, detects anomalies, classifies potential faults, and provides health assessment along with maintenance recommendations.
 
-![Digital Twin](assets/screenshots/digital_twin.png)
+![Motor Health Alert](assets/screenshots/motor_health_alert.png)
 
-</td>
-</tr>
+---
 
-<tr>
-<td colspan="2" align="center">
+### 🔧 Hardware Implementation
 
-### Hardware Setup
+The experimental setup consists of an industrial motor, ESP32 microcontroller, sensors, and the data acquisition system used for real-time monitoring and predictive maintenance.
 
-![Hardware](assets/screenshots/hardware_setup.jpg)
-
-</td>
-</tr>
-</table>
-
+![Hardware Setup](assets/screenshots/hardware_setup.jpg)
 ---
 
 # 📖 Overview
