@@ -63,19 +63,19 @@ The project demonstrates how Industry 4.0 technologies can be integrated into a 
 
 # 🏗 System Architecture
 
-![System Architecture](diagrams/system_architecture.png)
+![System Architecture](assets/diagrams/system_architecture.png)
 
 ---
 
 # 🔄 Workflow
 
-![Workflow](diagrams/workflow.png)
+![Workflow](assets/diagrams/workflow.png)
 
 ---
 
 # 🧠 Machine Learning Pipeline
 
-![ML Pipeline](diagrams/ml_pipeline.png)
+![ML Pipeline](assets/diagrams/ml_pipeline.png)
 
 The prediction pipeline consists of:
 
@@ -106,30 +106,21 @@ The prediction pipeline consists of:
 
 # 📂 Repository Structure
 
+```text
 Digital-Twin-Predictive-Maintenance-System
-│
-├── assets/
-│   ├── banners/
-│   ├── screenshots/
-│   ├── demo/
-│   └── icons/
-│
-├── backend/
-│
-├── frontend/
-│
-├── machine_learning/
-│
-├── datasets/
-│
-├── diagrams/
-│
-├── docs/
-│
+├── assets
+│   ├── banners
+│   ├── diagrams
+│   └── screenshots
+├── backend
+├── frontend
+├── machine_learning
+├── datasets
+├── docs
 ├── README.md
 ├── LICENSE
-├── requirements.txt
-└── .gitignore
+└── requirements.txt
+```
 
 ---
 
