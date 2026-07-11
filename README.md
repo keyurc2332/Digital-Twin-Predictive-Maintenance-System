@@ -234,5 +234,12 @@ Thakur College of Engineering and Technology
 
 ---
 
-Made with ❤️ for Industry 4.0, IoT and Machine Learning.
+# 📌 Repository Note
 
+This repository contains the primary implementation and supporting documentation for the project.
+
+To keep the repository concise and focused, only the major implementation files, sample datasets, and documentation have been included. Auxiliary scripts, experimental files, and development resources have been omitted.
+
+---
+
+Made with ❤️ for Industry 4.0, IoT and Machine Learning.

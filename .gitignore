@@ -2,8 +2,6 @@
 __pycache__/
 *.py[cod]
 *.pyo
-*.pyd
-*.so
 *.egg-info/
 .venv/
 venv/
@@ -13,16 +11,12 @@ env/
 instance/
 .flaskenv
 
-# React
-node_modules/
-build/
-dist/
+# Environment Variables
+.env
+.env.*
 
 # VS Code
 .vscode/
-
-# JetBrains
-.idea/
 
 # macOS
 .DS_Store
@@ -33,22 +27,20 @@ Thumbs.db
 # Logs
 *.log
 
-# Environment
-.env
-.env.*
-
 # Jupyter
 .ipynb_checkpoints/
 
-# Model Files (optional)
+# ML Models
 *.h5
 *.pt
 *.pth
-*.ckpt
+*.joblib
+*.pkl
 
-# Dataset
+# Dataset Cache
 datasets/full_dataset/
 
-# Temporary
-temp/
-tmp/
+# Node
+node_modules/
+dist/
+build/
