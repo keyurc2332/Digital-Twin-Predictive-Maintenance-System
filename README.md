@@ -152,6 +152,9 @@ Install the required Python dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+```bash
+python backend/server.py
+```
 
 > **Note:** This repository contains the source code, documentation, and supporting resources developed as part of the project. Depending on your setup and available hardware (ESP32, sensors, etc.), additional configuration may be required to run the complete system.
 
